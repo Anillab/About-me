@@ -1,6 +1,8 @@
 {Application Name}
 #### {This is a landing page}
 ## By **{Anilla Stephannie}**
+##Link
+   {https://github.com/Anillab/About-me.git}
 ## Description
 { This a personal blog project that involves writing a blog about one self punctuated with your newly acquired coding skills at Moringa School with links of the mini projects on the Github. }
 
